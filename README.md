@@ -18,6 +18,8 @@ ChatGPT
 Conteúdo gerado via ChatGPT
 Imagens montadas via Canva 
 
+https://github.com/Andryarocha/Andryarocha/blob/main/Luz%20Cores%20e%20A%C3%A7%C3%A3o%20-%20podcast.mp3
+
 
 https://github.com/Andryarocha/Andryarocha/commit/0c145f50fae3bb649b9c60e3c9f78655194e9b48  
 
